@@ -1,0 +1,13 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+fastapi
+uvicorn
+gunicorn
+uvloop
+flask_cors
+pymongo
+twilio
+python-dotenv
